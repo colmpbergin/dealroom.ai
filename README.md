@@ -135,6 +135,18 @@ Preview locally: `cd site && hugo server`
 
 ---
 
+## Live Example
+
+The [`example`][example-branch] branch contains a complete, real deal room for
+**BigPawRides** — a pre-seed large-dog taxi startup raising €100K in Dublin.
+
+Browse the published site: [team-ailtir.github.io/dealroom.ai][example-site]
+
+It includes all 14 sections, a full research sprint, financial model, and
+investor review — built entirely with this workspace.
+
+---
+
 ## MCP Tools (Optional but Recommended)
 
 ```bash
@@ -163,3 +175,5 @@ To contribute changes, see [CONTRIBUTING.md][contributing].
 [liam]: https://liamottley.com
 [claude-md]: CLAUDE.md
 [contributing]: CONTRIBUTING.md
+[example-branch]: https://github.com/team-ailtir/dealroom.ai/tree/example
+[example-site]: https://team-ailtir.github.io/dealroom.ai
