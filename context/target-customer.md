@@ -42,11 +42,11 @@
 "I booked an Uber to take my dog to the vet. Three drivers cancelled when they
 saw the size of him. I was 20 minutes late to a post-surgery appointment."
 
-"My groomer is 8km away. I don't have a car. I can't get any taxi to take a
-60kg dog. I ended up cancelling."
+"My groomer is 8km away. I don't have a car. I can't get any taxi to take a 60kg
+dog. I ended up cancelling."
 
-"I love having a big dog but the logistics are exhausting. Every vet trip is
-a production."
+"I love having a big dog but the logistics are exhausting. Every vet trip is a
+production."
 
 ## How They Currently Solve It
 
@@ -55,8 +55,8 @@ a production."
   anxious/injured dog they can't safely handle alone)
 - **Standard pet taxis**: Often refuse large breeds or don't have appropriate
   vehicles
-- **Delay / cancel**: Many simply delay vet visits or cancel grooming — a
-  health and wellbeing cost to the dog
+- **Delay / cancel**: Many simply delay vet visits or cancel grooming — a health
+  and wellbeing cost to the dog
 
 ## Why They Switch to BigPawRides
 
@@ -76,8 +76,8 @@ a production."
    recommendations
 4. **Instagram / TikTok**: Large dog content is inherently shareable;
    behind-the-scenes of happy dogs builds organic reach
-5. **Word of mouth**: Tight-knit large dog owner community; one great
-   experience = multiple referrals
+5. **Word of mouth**: Tight-knit large dog owner community; one great experience
+   = multiple referrals
 
 ## Reference Customers
 

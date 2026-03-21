@@ -8,30 +8,30 @@ No customers, no revenue. The €100K raise is to fund first operations.
 
 ## Key Metrics
 
-| Metric | Current Value | Notes |
-| --- | --- | --- |
-| Monthly Revenue (MRR) | €0 | Pre-launch |
-| Total Customers | 0 | Pre-launch |
-| CAC | Unknown | To be measured post-launch |
-| LTV | Unknown | To be estimated post-launch |
-| Churn Rate | — | Not applicable yet |
-| Gross Margin | ~70–80% est. | After fuel, vehicle costs (no labour cost at founder rate) |
-| Burn Rate (monthly) | ~€0 | Pre-funding |
-| Runway | 0 months | Pre-funding |
+| Metric                | Current Value | Notes                                                      |
+| --------------------- | ------------- | ---------------------------------------------------------- |
+| Monthly Revenue (MRR) | €0            | Pre-launch                                                 |
+| Total Customers       | 0             | Pre-launch                                                 |
+| CAC                   | Unknown       | To be measured post-launch                                 |
+| LTV                   | Unknown       | To be estimated post-launch                                |
+| Churn Rate            | —             | Not applicable yet                                         |
+| Gross Margin          | ~70–80% est.  | After fuel, vehicle costs (no labour cost at founder rate) |
+| Burn Rate (monthly)   | ~€0           | Pre-funding                                                |
+| Runway                | 0 months      | Pre-funding                                                |
 
 ## Break-Even Projection
 
 **Monthly fixed costs (estimated post-launch):**
 
-| Cost Item | Monthly Estimate |
-| --- | --- |
-| Vehicle loan / lease repayment | €400–€600 |
-| Commercial vehicle + animal transport insurance | €250–€400 |
-| Fuel | €200–€350 |
-| Licensing / permits | ~€50 |
-| Marketing / customer acquisition | €100–€200 |
-| Founder salary | €2,000–€2,500 |
-| **Total** | **~€3,000–€4,100** |
+| Cost Item                                       | Monthly Estimate   |
+| ----------------------------------------------- | ------------------ |
+| Vehicle loan / lease repayment                  | €400–€600          |
+| Commercial vehicle + animal transport insurance | €250–€400          |
+| Fuel                                            | €200–€350          |
+| Licensing / permits                             | ~€50               |
+| Marketing / customer acquisition                | €100–€200          |
+| Founder salary                                  | €2,000–€2,500      |
+| **Total**                                       | **~€3,000–€4,100** |
 
 **Trips needed to break even**: At €35 avg. trip value → ~86–117 trips/month
 (~22–29/week, ~4–5/day for a 5-day operating week)

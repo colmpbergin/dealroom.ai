@@ -2,18 +2,18 @@
 
 ## Direct Competitors
 
-| Company | Website | Notes |
-| --- | --- | --- |
+| Company                   | Website           | Notes                                                                      |
+| ------------------------- | ----------------- | -------------------------------------------------------------------------- |
 | Dublin Pet Taxi (generic) | [research needed] | Small operators; focus on small breeds; unsuitable vehicles for large dogs |
-| Vet/groomer own transport | varies | Limited to own clients; not public-facing; restricted scheduling |
+| Vet/groomer own transport | varies            | Limited to own clients; not public-facing; restricted scheduling           |
 
 ## Indirect Competitors
 
-| Company | Website | Why They Compete |
-| --- | --- | --- |
-| Uber / Bolt / Free Now | uber.com / bolt.eu | Customers try these first; drivers routinely refuse large dogs |
-| Owner's own car | — | Primary status quo; fails for car-free owners or unsuitable vehicles |
-| Friends / family | — | Informal fallback; unreliable, creates social debt |
+| Company                | Website            | Why They Compete                                                     |
+| ---------------------- | ------------------ | -------------------------------------------------------------------- |
+| Uber / Bolt / Free Now | uber.com / bolt.eu | Customers try these first; drivers routinely refuse large dogs       |
+| Owner's own car        | —                  | Primary status quo; fails for car-free owners or unsuitable vehicles |
+| Friends / family       | —                  | Informal fallback; unreliable, creates social debt                   |
 
 ## The "Do Nothing" Option
 

@@ -1,7 +1,6 @@
 # Section 12 — Use of Funds
 
-**BigPawRides | Pre-Seed | €100,000 SAFE**
-_Generated: 2026-03-21_
+**BigPawRides | Pre-Seed | €100,000 SAFE** _Generated: 2026-03-21_
 
 ---
 
@@ -11,14 +10,14 @@ This raise is not a budget — it is a milestone-sequenced deployment plan. Each
 allocation unlocks a specific operational capability, and every capability
 connects to a measurable outcome on the path to break-even at Month 13.
 
-| Category | Amount | % | Milestone Enabled |
-| --- | --- | --- | --- |
-| Vehicle purchase + conversion | €28,000 | 28% | Purpose-built van operational; BigPawRides visible on Dublin streets from Day 1 |
-| Insurance + licensing | €5,000 | 5% | Legally operational from Day 1; specialist pet transport endorsement secured |
-| Marketing + brand setup | €4,000 | 4% | Website, van livery, Google My Business — all discovery channels live before first trip |
-| Founder salary (18 months × €2,500) | €45,000 | 45% | Full-time founder execution for 18 months without secondary income pressure |
-| Working capital + buffer | €18,000 | 18% | 4+ months reserve; absorbs slower demand ramp; covers emergency maintenance |
-| **Total** | **€100,000** | **100%** | |
+| Category                            | Amount       | %        | Milestone Enabled                                                                       |
+| ----------------------------------- | ------------ | -------- | --------------------------------------------------------------------------------------- |
+| Vehicle purchase + conversion       | €28,000      | 28%      | Purpose-built van operational; BigPawRides visible on Dublin streets from Day 1         |
+| Insurance + licensing               | €5,000       | 5%       | Legally operational from Day 1; specialist pet transport endorsement secured            |
+| Marketing + brand setup             | €4,000       | 4%       | Website, van livery, Google My Business — all discovery channels live before first trip |
+| Founder salary (18 months × €2,500) | €45,000      | 45%      | Full-time founder execution for 18 months without secondary income pressure             |
+| Working capital + buffer            | €18,000      | 18%      | 4+ months reserve; absorbs slower demand ramp; covers emergency maintenance             |
+| **Total**                           | **€100,000** | **100%** |                                                                                         |
 
 ---
 
@@ -31,14 +30,14 @@ unless needed — it is the business's safety valve, not an operational line.
 
 ### Milestone Map
 
-| Milestone | Capital That Enables It | Target Month |
-| --- | --- | --- |
-| First paying trip completed | Vehicle + insurance | Month 1 |
-| 10 repeat customers secured | Marketing + founder time | Month 2–3 |
-| 3 vet clinic referral partnerships live | Founder relationship-building | Month 3 |
-| 50+ repeat customers in active rotation | Referral flywheel + operations | Month 9–12 |
-| Break-even on monthly operations | All capital deployed + revenue ramp | Month 13 |
-| Seed round trigger metrics hit | Break-even + repeat base + cash flow positive | Month 15–18 |
+| Milestone                               | Capital That Enables It                       | Target Month |
+| --------------------------------------- | --------------------------------------------- | ------------ |
+| First paying trip completed             | Vehicle + insurance                           | Month 1      |
+| 10 repeat customers secured             | Marketing + founder time                      | Month 2–3    |
+| 3 vet clinic referral partnerships live | Founder relationship-building                 | Month 3      |
+| 50+ repeat customers in active rotation | Referral flywheel + operations                | Month 9–12   |
+| Break-even on monthly operations        | All capital deployed + revenue ramp           | Month 13     |
+| Seed round trigger metrics hit          | Break-even + repeat base + cash flow positive | Month 15–18  |
 
 ---
 
@@ -52,9 +51,9 @@ generates **+€1,780/month in positive cash flow** — meaning the runway never
 runs out under base case assumptions.
 
 The €18,000 working capital buffer is sized to absorb a stress scenario: demand
-ramps 30% slower than projected and one major maintenance event occurs in Year 1.
-Even under that scenario, the business reaches break-even by Month 16 before the
-buffer is exhausted.
+ramps 30% slower than projected and one major maintenance event occurs in
+Year 1. Even under that scenario, the business reaches break-even by Month 16
+before the buffer is exhausted.
 
 ---
 
@@ -84,4 +83,5 @@ base — will be live and auditable before any seed conversation begins.
 
 ---
 
-_Sources: context/strategy.md, context/fundraising-stage.md, financial model (outputs/11-financials/)_
+_Sources: context/strategy.md, context/fundraising-stage.md, financial model
+(outputs/11-financials/)_

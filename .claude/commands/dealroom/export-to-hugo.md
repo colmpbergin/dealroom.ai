@@ -102,8 +102,8 @@ That is on purpose!
 
 ### Phase 5: Update Homepage Index
 
-After creating the snapshot directory, scan all existing snapshot directories
-in `site/content/` to build an up-to-date index:
+After creating the snapshot directory, scan all existing snapshot directories in
+`site/content/` to build an up-to-date index:
 
 ```bash
 ls -d site/content/*/
@@ -118,15 +118,15 @@ title: "Deal Room Snapshots"
 date: <current ISO 8601 date>
 ---
 
-| Snapshot | Sections included |
-| -------- | ----------------- |
+| Snapshot                                    | Sections included |
+| ------------------------------------------- | ----------------- |
 | [YYYY-MM-DD_HH-MM-SS](YYYY-MM-DD_HH-MM-SS/) | Section 01, 02, … |
 | [YYYY-MM-DD_HH-MM-SS](YYYY-MM-DD_HH-MM-SS/) | Section 01, 02, … |
 ```
 
-For each snapshot directory, inspect its `_index.md` to determine which
-sections are included (status ✅). List them as a comma-separated summary
-(e.g. "01, 02, 03, 08, 10") or "—" if the index can't be read.
+For each snapshot directory, inspect its `_index.md` to determine which sections
+are included (status ✅). List them as a comma-separated summary (e.g. "01, 02,
+03, 08, 10") or "—" if the index can't be read.
 
 This file is the source for the Hugo homepage and must be re-generated (not
 appended to) on every export so it always reflects the full current state.

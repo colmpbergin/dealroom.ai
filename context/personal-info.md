@@ -2,9 +2,8 @@
 
 ## Founder
 
-**Name**: Roland Tritsch
-**Role**: Founder & Operator
-**Location**: Dublin, Ireland
+**Name**: Roland Tritsch **Role**: Founder & Operator **Location**: Dublin,
+Ireland
 
 ## Your Role
 
@@ -26,8 +25,8 @@ purpose-built vehicle and get to first revenue and operational break-even.
 
 ## Founder-Market Fit
 
-**Large dog owner**: Direct, repeated personal experience of the problem.
-Have been refused by Uber/Bolt drivers with a large dog. Have experienced the
+**Large dog owner**: Direct, repeated personal experience of the problem. Have
+been refused by Uber/Bolt drivers with a large dog. Have experienced the
 frustration of unreliable pet taxi services not designed for large breeds. This
 is the origin story — not a market opportunity spotted from the outside.
 

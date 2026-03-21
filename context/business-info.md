@@ -17,11 +17,11 @@ ownership.
 
 ## What We Do
 
-Large dog owners in Dublin face a genuine transport crisis: Uber and Bolt drivers
-routinely refuse large breeds, standard pet taxis focus on small dogs, and many
-urban residents don't own cars suitable for a 40–60kg animal. BigPawRides fills
-this gap with a purpose-built, owner-operated van service designed exclusively
-for large dogs.
+Large dog owners in Dublin face a genuine transport crisis: Uber and Bolt
+drivers routinely refuse large breeds, standard pet taxis focus on small dogs,
+and many urban residents don't own cars suitable for a 40–60kg animal.
+BigPawRides fills this gap with a purpose-built, owner-operated van service
+designed exclusively for large dogs.
 
 The service is simple: book a trip, we collect your dog, transport them safely
 to the vet / groomer / kennel / wherever they need to go, and deliver them back.
@@ -62,6 +62,6 @@ Dublin, Ireland (launch market)
   deliberate choice: quality control, dog familiarity, and brand trust are built
   by the founder directly.
 - The model is proven in other cities (pet taxi services exist); the gap is the
-  **large dog focus** and **purpose-built vehicle** — neither of which the Dublin
-  market currently has.
+  **large dog focus** and **purpose-built vehicle** — neither of which the
+  Dublin market currently has.
 - First-mover advantage in a clearly underserved niche with recurring demand.

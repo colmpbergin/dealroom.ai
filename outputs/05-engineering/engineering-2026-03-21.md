@@ -1,6 +1,6 @@
 # Section 05 — Operations & Technology
 
-## No Engineering. By Design.
+## No Engineering. By Design
 
 BigPawRides is a service business. There is no custom software at launch — and
 that is not an oversight. It is a deliberate cost advantage. Building technology
@@ -16,14 +16,14 @@ Total software overhead at launch: under €70 per month.
 
 ## Operational Stack
 
-| Layer | Tool | Cost |
-| --- | --- | --- |
-| Online presence | Squarespace website | ~€20/mo |
-| Booking + payments | Calendly + Stripe | ~€30/mo |
-| Trip routing | Google Maps | Free |
-| Customer comms | WhatsApp Business | Free |
-| Accounting + VAT | FreeAgent | ~€20/mo |
-| Marketing | Instagram + TikTok | Free |
+| Layer              | Tool                | Cost    |
+| ------------------ | ------------------- | ------- |
+| Online presence    | Squarespace website | ~€20/mo |
+| Booking + payments | Calendly + Stripe   | ~€30/mo |
+| Trip routing       | Google Maps         | Free    |
+| Customer comms     | WhatsApp Business   | Free    |
+| Accounting + VAT   | FreeAgent           | ~€20/mo |
+| Marketing          | Instagram + TikTok  | Free    |
 
 Every tool listed is off-the-shelf, proven, and replaceable. None of them
 creates dependency or lock-in. The business can be operational within 48 hours
@@ -44,9 +44,9 @@ where the defensibility is.
 
 ## Operational Disciplines (What Replaces Engineering Process)
 
-- **Service quality standard**: Every ride logged — pick-up time, drop-off
-  time, customer satisfaction note. Manual at launch; structured once volume
-  warrants it.
+- **Service quality standard**: Every ride logged — pick-up time, drop-off time,
+  customer satisfaction note. Manual at launch; structured once volume warrants
+  it.
 - **Safety protocol**: Vehicle inspection checklist before every shift. Crates
   secured, restraints checked, ventilation confirmed. Not optional.
 - **Vehicle maintenance schedule**: Serviced every 10,000 km or 6 months,

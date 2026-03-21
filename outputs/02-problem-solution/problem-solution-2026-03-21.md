@@ -1,7 +1,6 @@
 # BigPawRides — Section 02: Problem & Solution
 
-**Date:** 2026-03-21
-**Stage:** Pre-Seed | €100K SAFE
+**Date:** 2026-03-21 **Stage:** Pre-Seed | €100K SAFE
 
 ---
 
@@ -29,10 +28,10 @@ into service with unsuitable cars. Stress for owner and animal alike.
 
 > "Three Uber drivers cancelled when they saw my dog. I missed the appointment
 > and paid a €50 rebooking fee."
-
-> "Anyone in Dublin know how to get a large dog to a groomer without a car?
-> Bolt drivers just drive off when they see him."
-
+>
+> "Anyone in Dublin know how to get a large dog to a groomer without a car? Bolt
+> drivers just drive off when they see him."
+>
 > "I pay €90 for mobile grooming because I can't get him to a salon. If there
 > was a proper service, I'd use it every time. I'd pay €50 easily."
 
@@ -84,8 +83,8 @@ Five forces have converged in 2025–2026 to make this the right moment:
    car-free and car-lite household formation — exactly the segment with the
    sharpest need for a transport alternative.
 
-5. **The competitive vacuum has been open since 2022.** No operator has moved
-   to fill it. The window is open.
+5. **The competitive vacuum has been open since 2022.** No operator has moved to
+   fill it. The window is open.
 
 ---
 
@@ -98,13 +97,13 @@ breeds exclusively (25kg+).
 
 The solution maps directly to each failure point:
 
-| Pain Point | BigPawRides Response |
-| --- | --- |
-| Driver refusal | Owner-operated van; no discretionary acceptance |
-| Wrong vehicle type | Transit Custom; built for the load, not retrofitted |
-| Boarding anxiety for large dogs | Ramp access; secure crating; calm handling |
-| Unpredictable pricing | Fixed fare band: €25–€50 by zone |
-| No platform in Ireland | Dedicated booking; no ride-share dependency |
+| Pain Point                      | BigPawRides Response                                |
+| ------------------------------- | --------------------------------------------------- |
+| Driver refusal                  | Owner-operated van; no discretionary acceptance     |
+| Wrong vehicle type              | Transit Custom; built for the load, not retrofitted |
+| Boarding anxiety for large dogs | Ramp access; secure crating; calm handling          |
+| Unpredictable pricing           | Fixed fare band: €25–€50 by zone                    |
+| No platform in Ireland          | Dedicated booking; no ride-share dependency         |
 
 Every trip variable that causes failure in the current market is addressed by
 design, not policy.
@@ -114,7 +113,8 @@ design, not policy.
 ## The Promised Land
 
 A large-dog owner in Ranelagh books a trip. The van arrives on time. Her dog
-boards on a ramp. He arrives at the vet calm. She pays €35. She books the return.
+boards on a ramp. He arrives at the vet calm. She pays €35. She books the
+return.
 
 That is the product. That is what 15,000 households in Dublin cannot reliably
 access today. BigPawRides exists to make that transaction routine.

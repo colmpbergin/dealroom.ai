@@ -1,8 +1,7 @@
 # Market Sizing Brief — BigPawRides
-**Date**: 2026-03-21
-**Analyst**: Market Researcher Agent
-**Stage**: Pre-Seed | €100K raise
-**Service**: Purpose-built large-dog taxi, Dublin, Ireland
+
+**Date**: 2026-03-21 **Analyst**: Market Researcher Agent **Stage**: Pre-Seed |
+€100K raise **Service**: Purpose-built large-dog taxi, Dublin, Ireland
 **Pricing**: €25–€50/trip, blended average €35
 
 ---
@@ -36,8 +35,8 @@ with Department of Housing dog control statistics.
 
 **Adjustment for unlicensed dogs**: Compliance with dog licensing in Ireland is
 estimated at 50–60% (a longstanding issue noted by local authority dog wardens).
-Applying a 1.6–2.0x multiplier to the licensed count yields an estimated
-**total dog population of 650,000–900,000** in Ireland.
+Applying a 1.6–2.0x multiplier to the licensed count yields an estimated **total
+dog population of 650,000–900,000** in Ireland.
 
 **Cross-check via household proxy**: Ireland's usually resident population is
 5,458,600 (CSO Population and Migration Estimates, August 2025), with
@@ -51,6 +50,7 @@ licensing-based estimate. A figure of **700,000 dogs in Ireland** is used as the
 working central estimate.
 
 **Sources**:
+
 - [CSO Population and Migration Estimates, April 2025][cso-pop]
 - [Euromonitor: Pet Care in Ireland, May 2025][euromonitor]
 - Agriland.ie reporting on dog licensing (400,000+ licenses issued annually;
@@ -91,10 +91,10 @@ among the high-volume listings — all large breeds. The top-10 most popular
 breeds in the UK include several large breeds (Labrador Retriever, Golden
 Retriever, German Shepherd, Bulldog — though Bulldog is medium-borderline).
 
-**Method B — American Kennel Club popularity list (2022)**: The top 20 breeds
-by AKC registration include: French Bulldog (#1, small), Labrador Retriever
-(#2, large), Golden Retriever (#3, large), German Shepherd (#4, large), Poodle
-(#5, varies), Bulldog (#6, medium), Rottweiler (#10, large), German Shorthaired
+**Method B — American Kennel Club popularity list (2022)**: The top 20 breeds by
+AKC registration include: French Bulldog (#1, small), Labrador Retriever (#2,
+large), Golden Retriever (#3, large), German Shepherd (#4, large), Poodle (#5,
+varies), Bulldog (#6, medium), Rottweiler (#10, large), German Shorthaired
 Pointer (#11, medium-large), Dachshund (#12, small), Pembroke Welsh Corgi (#13,
 medium). Rough count: of the top 20, approximately 7–9 are large breeds (25kg+).
 This suggests roughly 35–45% of registered breeds are large.
@@ -103,9 +103,9 @@ This suggests roughly 35–45% of registered breeds are large.
 industry literature (including Verified Market Research, 2024) notes that "the
 dog segment is expected to dominate [pet transportation] due to high global
 ownership rates and frequent relocation associated with large breeds," implying
-large breeds are a disproportionate driver of transport demand. Insurance premium
-data consistently places large breeds at 30–40% of the insured dog population in
-Western markets.
+large breeds are a disproportionate driver of transport demand. Insurance
+premium data consistently places large breeds at 30–40% of the insured dog
+population in Western markets.
 
 **Working estimate**: **35% of Dublin dogs are large breeds (25kg+)**
 
@@ -120,6 +120,7 @@ sensitivity range of 25%–45% is used in the scenario analysis below.
 
 Not all large dog owners need a taxi service. The target customer is a large dog
 owner who:
+
 - (a) does not own a car suitable for transporting a large dog, OR
 - (b) finds ride-share services consistently refuse their dog, OR
 - (c) prefers professional, purpose-built transport for safety or convenience
@@ -130,6 +131,7 @@ city households are car-free (reinforced by Dublin City Mobility Plan research
 and Census commuter data showing significant public transport usage). Of
 households that do own a car, a meaningful proportion own hatchbacks, city cars,
 or small SUVs unsuitable for safe transport of a 30–60kg dog. Applying:
+
 - 22% of Dublin dog owners are car-free: 64,750 × 22% = 14,245 owners
 - A further 20% own an unsuitable car for large dog transport: 64,750 × 20% =
   12,950 owners
@@ -142,7 +144,8 @@ or small SUVs unsuitable for safe transport of a 30–60kg dog. Applying:
 This is a liberal interpretation. A conservative cut (car-free + unsuitable car
 only) gives **~27,195 owners** (~42%).
 
-**Working estimate**: **30,000 addressable large dog owner households in Dublin**
+**Working estimate**: **30,000 addressable large dog owner households in
+Dublin**
 
 ---
 
@@ -150,12 +153,12 @@ only) gives **~27,195 owners** (~42%).
 
 This is built from the three core trip occasion categories:
 
-| Occasion | Frequency (per dog/year) | Source / Basis |
-|---|---|---|
-| Vet visits (routine + illness) | 2.0 | WSAVA guidelines recommend 1–2 annual wellness visits for adult dogs; large breeds have higher illness rates. Industry standard across US, UK, and European vet associations is 1.5–2.5 visits/year for adult dogs. Using 2.0 as the central estimate. |
-| Professional grooming | 6.0 | Large breeds with dense/double coats (Labradors, German Shepherds, Goldens, Huskies) require professional grooming every 6–8 weeks. Short-coated large breeds (Boxers, Rottweilers) require less — roughly 4x/year. Blended average across large breed mix: 5–8x/year. Using 6.0. |
-| Kennel / boarding / daycare | 2.0 | Annual boarding occasions (holidays, travel, work trips). Industry benchmarks suggest 2–4 occasions/year for committed dog owners. Using 2.0 as conservative lower bound. |
-| **Total trips/year (blended)** | **10.0** | |
+| Occasion                       | Frequency (per dog/year) | Source / Basis                                                                                                                                                                                                                                                                    |
+| ------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vet visits (routine + illness) | 2.0                      | WSAVA guidelines recommend 1–2 annual wellness visits for adult dogs; large breeds have higher illness rates. Industry standard across US, UK, and European vet associations is 1.5–2.5 visits/year for adult dogs. Using 2.0 as the central estimate.                            |
+| Professional grooming          | 6.0                      | Large breeds with dense/double coats (Labradors, German Shepherds, Goldens, Huskies) require professional grooming every 6–8 weeks. Short-coated large breeds (Boxers, Rottweilers) require less — roughly 4x/year. Blended average across large breed mix: 5–8x/year. Using 6.0. |
+| Kennel / boarding / daycare    | 2.0                      | Annual boarding occasions (holidays, travel, work trips). Industry benchmarks suggest 2–4 occasions/year for committed dog owners. Using 2.0 as conservative lower bound.                                                                                                         |
+| **Total trips/year (blended)** | **10.0**                 |                                                                                                                                                                                                                                                                                   |
 
 **Note on trip conversion rate**: Not every required trip will use BigPawRides.
 The "trip-to-taxi-use" conversion accounts for owners who solve the problem
@@ -172,16 +175,17 @@ Effective trips per addressable owner per year = 10.0 × 50% = **5 trips/year**
 
 **Formula**: Addressable owners × trips/year × avg trip fare
 
-| Scenario | Owners | Trips/Year | Avg Fare | Annual TAM |
-|---|---|---|---|---|
-| Conservative (25% large, 42% addressable, 4 trips) | 23,400 | 4 | €35 | **€3.3M** |
-| Central (35% large, 52% addressable, 5 trips) | 30,000 | 5 | €35 | **€5.25M** |
-| Optimistic (45% large, 55% addressable, 6 trips) | 38,700 | 6 | €35 | **€8.1M** |
+| Scenario                                           | Owners | Trips/Year | Avg Fare | Annual TAM |
+| -------------------------------------------------- | ------ | ---------- | -------- | ---------- |
+| Conservative (25% large, 42% addressable, 4 trips) | 23,400 | 4          | €35      | **€3.3M**  |
+| Central (35% large, 52% addressable, 5 trips)      | 30,000 | 5          | €35      | **€5.25M** |
+| Optimistic (45% large, 55% addressable, 6 trips)   | 38,700 | 6          | €35      | **€8.1M**  |
 
 **The figures above represent the SAM (Dublin metro, large dog transport), not
 the TAM in the conventional sense.** The true TAM includes all of Ireland.
 
 Scaling to Ireland-wide:
+
 - Central Dublin SAM: €5.25M
 - Ireland has 3 other cities of significant size (Cork, Galway, Limerick) plus
   other urban areas, which collectively account for roughly 30% of Ireland's
@@ -191,10 +195,10 @@ Scaling to Ireland-wide:
 
 Using a range:
 
-| Level | Definition | Estimate |
-|---|---|---|
-| **TAM** | All large-dog transport in Ireland (all cities) | **€14.7M–€22.4M/year** |
-| **SAM** | Dublin metro large-dog transport (launch market) | **€4.9M–€7.5M/year** |
+| Level   | Definition                                       | Estimate               |
+| ------- | ------------------------------------------------ | ---------------------- |
+| **TAM** | All large-dog transport in Ireland (all cities)  | **€14.7M–€22.4M/year** |
+| **SAM** | Dublin metro large-dog transport (launch market) | **€4.9M–€7.5M/year**   |
 
 **Working central estimates: TAM = €18M, SAM = €5.8M**
 
@@ -229,17 +233,17 @@ categories irrelevant to BigPawRides. Local road transport for routine trips
 (vet, grooming, boarding) is a subset. Applying a 50% filter for local/routine
 land transport: **€2.2M–€3.0M** for Ireland.
 
-**Step 4 — Dublin share**: Dublin = 28.7% of Ireland population:
-€2.2M–€3.0M × 28.7% = **€0.6M–€0.9M** for Dublin specifically.
+**Step 4 — Dublin share**: Dublin = 28.7% of Ireland population: €2.2M–€3.0M ×
+28.7% = **€0.6M–€0.9M** for Dublin specifically.
 
 **Conflict with bottom-up**: The top-down Dublin figure (€0.6M–€0.9M) is
 significantly lower than the bottom-up SAM (€4.9M–€7.5M). This is expected and
 explainable:
 
 1. The global market dataset primarily captures **commercial** pet transport
-   (relocation services, pet airlines, cargo brokers), not local taxi trips.
-   The local trip-by-trip taxi market is largely informal and cash-based in
-   most countries — it is structurally undercounted in formal market research.
+   (relocation services, pet airlines, cargo brokers), not local taxi trips. The
+   local trip-by-trip taxi market is largely informal and cash-based in most
+   countries — it is structurally undercounted in formal market research.
 2. The top-down approach allocates Europe's share by population, but per-trip
    pricing in Ireland (~€35) is significantly higher than emerging markets where
    most of the volume sits.
@@ -260,20 +264,19 @@ subsegment (grooming, boarding, transport) is fragmented and underserved.
 
 ## Section 3: SAM — Dublin Metro (Launch Market)
 
-**Definition**: The portion of the TAM that BigPawRides can realistically
-serve from its launch position — one operator, one vehicle, Dublin city and
-county.
+**Definition**: The portion of the TAM that BigPawRides can realistically serve
+from its launch position — one operator, one vehicle, Dublin city and county.
 
-| Metric | Value | Basis |
-|---|---|---|
-| Total dogs in Dublin metro | ~185,000 | CSO pop. share × national estimate |
-| Large breeds (35%) | ~64,750 | Triangulated from kennel club + insurance data |
-| Addressable owners (transport need) | ~30,000 | Car-free + unsuitable car + preference |
-| Annual trips per addressable owner | 5 | 10 raw occasions × 50% conversion |
-| Total addressable trips / year | 150,000 | |
-| Avg fare | €35 | Business model assumption |
-| **SAM** | **~€5.25M/year** | Central estimate |
-| SAM range | €4.9M–€7.5M | Conservative–optimistic |
+| Metric                              | Value            | Basis                                          |
+| ----------------------------------- | ---------------- | ---------------------------------------------- |
+| Total dogs in Dublin metro          | ~185,000         | CSO pop. share × national estimate             |
+| Large breeds (35%)                  | ~64,750          | Triangulated from kennel club + insurance data |
+| Addressable owners (transport need) | ~30,000          | Car-free + unsuitable car + preference         |
+| Annual trips per addressable owner  | 5                | 10 raw occasions × 50% conversion              |
+| Total addressable trips / year      | 150,000          |                                                |
+| Avg fare                            | €35              | Business model assumption                      |
+| **SAM**                             | **~€5.25M/year** | Central estimate                               |
+| SAM range                           | €4.9M–€7.5M      | Conservative–optimistic                        |
 
 **The SAM is the right market for this document** — it is the market BigPawRides
 is launching into, can be served with a single vehicle, and is the number
@@ -283,7 +286,8 @@ investors should focus on.
 
 ## Section 4: SOM — Serviceable Obtainable Market (Years 1–3)
 
-**Definition**: What one vehicle, one operator can actually capture in years 1–3.
+**Definition**: What one vehicle, one operator can actually capture in years
+1–3.
 
 ### Capacity Constraint (Supply-Side Ceiling)
 
@@ -299,13 +303,13 @@ for drive time, loading, and typical trip distances in Dublin):
 
 ### Revenue Calculation
 
-| Year | Trips/Week | Trips/Year | Avg Fare | Revenue |
-|---|---|---|---|---|
-| Year 1 | 15–20 | 780–1,040 | €35 | **€27,300–€36,400** |
-| Year 2 | 22–30 | 1,144–1,560 | €35 | **€40,040–€54,600** |
-| Year 3 | 30–40 | 1,560–2,080 | €36* | **€56,160–€74,880** |
+| Year   | Trips/Week | Trips/Year  | Avg Fare | Revenue             |
+| ------ | ---------- | ----------- | -------- | ------------------- |
+| Year 1 | 15–20      | 780–1,040   | €35      | **€27,300–€36,400** |
+| Year 2 | 22–30      | 1,144–1,560 | €35      | **€40,040–€54,600** |
+| Year 3 | 30–40      | 1,560–2,080 | €36\*    | **€56,160–€74,880** |
 
-*Modest price increase to €36 average in Year 3 from premium repeat customer
+\*Modest price increase to €36 average in Year 3 from premium repeat customer
 mix.
 
 **Year-3 SOM (central estimate): ~€65,000–€75,000 per year from one vehicle.**
@@ -316,20 +320,21 @@ internal consistency.
 
 ### SOM as % of SAM
 
-Year 3 revenue of ~€70K against a SAM of €5.25M = **1.3% market share**. This
-is well below the 30% threshold at which SOM claims become implausible. This
-SOM is entirely credible.
+Year 3 revenue of ~€70K against a SAM of €5.25M = **1.3% market share**. This is
+well below the 30% threshold at which SOM claims become implausible. This SOM is
+entirely credible.
 
 ### SOM Flag: Consistency with Financial Model
 
 The financial model in `context/current-data.md` and `context/strategy.md`
 targets:
+
 - Break-even at 25+ trips/week (~€45K/year) by Month 12–18
 - Seed round trigger at 50+ repeat customers with demonstrable growth
 
-The SOM analysis confirms these are achievable within a single-operator
-physical capacity, and do not require unrealistic market share. **No
-inconsistency flagged.** The model is internally consistent.
+The SOM analysis confirms these are achievable within a single-operator physical
+capacity, and do not require unrealistic market share. **No inconsistency
+flagged.** The model is internally consistent.
 
 ---
 
@@ -365,17 +370,18 @@ who can damage interiors, trigger allergies in subsequent passengers, and cause
 booking cancellations. What was an occasional refusal problem is now a reliable
 structural gap.
 
-**4. Pet humanization and premium services spending**: Irish pet owners now spend
-more per pet than at any point on record. The willingness to pay for specialist
-pet services — not just vet care, but professional grooming, premium food,
-daycare, and specialist transport — has materially expanded the total budget
-available. Euromonitor (May 2025) explicitly cites "pet humanization driving
-demand for premium offerings" as the primary growth driver for the Irish market.
+**4. Pet humanization and premium services spending**: Irish pet owners now
+spend more per pet than at any point on record. The willingness to pay for
+specialist pet services — not just vet care, but professional grooming, premium
+food, daycare, and specialist transport — has materially expanded the total
+budget available. Euromonitor (May 2025) explicitly cites "pet humanization
+driving demand for premium offerings" as the primary growth driver for the Irish
+market.
 
 **5. Underserved large-dog niche**: The existing Dublin pet taxi market (a small
-number of operators) focuses predominantly on small and medium dogs — the
-more manageable, higher-frequency customer. Large breeds are routinely excluded
-or deprioritised. BigPawRides occupies a gap, not a crowded space.
+number of operators) focuses predominantly on small and medium dogs — the more
+manageable, higher-frequency customer. Large breeds are routinely excluded or
+deprioritised. BigPawRides occupies a gap, not a crowded space.
 
 ---
 
@@ -421,6 +427,7 @@ defensible given the niche.
 ### UK Comparables
 
 The UK has established pet taxi operators including:
+
 - **Petpacker** (London) — multi-city, small/medium focus, £25–£55/trip
 - **Barking Mad** — franchise model, boarding + transport
 - **Wagmo** (US) — pet services subscription including transport
@@ -432,6 +439,7 @@ end for specialist services.
 ### Recent Funding Activity (Investor Signal)
 
 The pet services sector has seen continued investor activity:
+
 - Global pet transportation market growing at 9.2% CAGR with projected doubling
   to USD 5.0B by 2032 (Verified Market Research, 2024)
 - The Euromonitor report (May 2025) explicitly forecasts "acceleration in 2026"
@@ -441,9 +449,9 @@ The pet services sector has seen continued investor activity:
   pet services at scale
 
 **Note**: At the €100K pre-seed level, comparable funding data is less relevant
-— BigPawRides is an angel/family-office raise, not a VC round. The more
-relevant signal is that the pet services category consistently attracts investor
-interest when unit economics are demonstrated.
+— BigPawRides is an angel/family-office raise, not a VC round. The more relevant
+signal is that the pet services category consistently attracts investor interest
+when unit economics are demonstrated.
 
 ---
 
@@ -453,19 +461,20 @@ interest when unit economics are demonstrated.
 
 Euromonitor's May 2025 report explicitly states Ireland's "canine population
 continues declining" from its COVID peak. If this decline is sustained, the TAM
-contracts gradually. This is a real risk. Mitigation: the existing installed base
-of large dog owners (adopted 2020–2022) represents a demand cohort that persists
-for the full 12–15 year lifespan of those dogs. The peak demand period is now,
-not 5 years from now.
+contracts gradually. This is a real risk. Mitigation: the existing installed
+base of large dog owners (adopted 2020–2022) represents a demand cohort that
+persists for the full 12–15 year lifespan of those dogs. The peak demand period
+is now, not 5 years from now.
 
 ### 2. Car Ownership Recovery
 
 If Dublin's car ownership rate recovers (e.g., EV adoption making it more
-practical to own a vehicle suitable for large dogs), a portion of the addressable
-market self-solves the transport problem. Mitigation: urban apartment density
-continues to constrain car ownership regardless of vehicle type; cargo EVs and
-large SUVs remain expensive. The convenience and professional-quality positioning
-of BigPawRides still has value even for car owners during stressful vet visits.
+practical to own a vehicle suitable for large dogs), a portion of the
+addressable market self-solves the transport problem. Mitigation: urban
+apartment density continues to constrain car ownership regardless of vehicle
+type; cargo EVs and large SUVs remain expensive. The convenience and
+professional-quality positioning of BigPawRides still has value even for car
+owners during stressful vet visits.
 
 ### 3. Generic Pet Taxi Entrants Expanding to Large Dogs
 
@@ -481,15 +490,16 @@ structural lock-in.
 
 ## Section 9: Sources
 
-| Source | URL | Date |
-|---|---|---|
-| CSO Population and Migration Estimates (Aug 2025) | [cso.ie][cso-pop] | Aug 2025 |
-| Euromonitor: Pet Care in Ireland | [euromonitor.com][euromonitor] | May 2025 |
-| Verified Market Research: Pet Transportation Market | [verifiedmarketresearch.com][vmr] | 2024 |
-| Pets4Homes UK breed listings | [pets4homes.co.uk][p4h] | Accessed Mar 2026 |
-| Irish Kennel Club (IKC) | [ikc.ie][ikc] | Accessed Mar 2026 |
+| Source                                              | URL                               | Date              |
+| --------------------------------------------------- | --------------------------------- | ----------------- |
+| CSO Population and Migration Estimates (Aug 2025)   | [cso.ie][cso-pop]                 | Aug 2025          |
+| Euromonitor: Pet Care in Ireland                    | [euromonitor.com][euromonitor]    | May 2025          |
+| Verified Market Research: Pet Transportation Market | [verifiedmarketresearch.com][vmr] | 2024              |
+| Pets4Homes UK breed listings                        | [pets4homes.co.uk][p4h]           | Accessed Mar 2026 |
+| Irish Kennel Club (IKC)                             | [ikc.ie][ikc]                     | Accessed Mar 2026 |
 
-[cso-pop]: https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2025/
+[cso-pop]:
+  https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2025/
 [euromonitor]: https://www.euromonitor.com/pet-care-in-ireland/report
 [vmr]: https://www.verifiedmarketresearch.com/product/pet-transportation-market/
 [p4h]: https://www.pets4homes.co.uk/sale/dogs/large-breeds/
@@ -499,18 +509,17 @@ structural lock-in.
 
 ## Section 10: Key Assumptions Summary and Sensitivity
 
-| Assumption | Conservative | Central | Optimistic | Confidence |
-|---|---|---|---|---|
-| Ireland total dog population | 600,000 | 700,000 | 900,000 | Medium |
-| % dogs that are large breeds (25kg+) | 25% | 35% | 45% | Medium-Low |
-| % large dog owners needing transport | 38% | 52% | 60% | Medium |
-| Trip occasions per addressable owner/year | 8 | 10 | 12 | Medium |
-| Conversion to taxi use | 40% | 50% | 60% | Medium-Low |
-| Avg fare | €30 | €35 | €40 | High |
+| Assumption                                | Conservative | Central | Optimistic | Confidence |
+| ----------------------------------------- | ------------ | ------- | ---------- | ---------- |
+| Ireland total dog population              | 600,000      | 700,000 | 900,000    | Medium     |
+| % dogs that are large breeds (25kg+)      | 25%          | 35%     | 45%        | Medium-Low |
+| % large dog owners needing transport      | 38%          | 52%     | 60%        | Medium     |
+| Trip occasions per addressable owner/year | 8            | 10      | 12         | Medium     |
+| Conversion to taxi use                    | 40%          | 50%     | 60%        | Medium-Low |
+| Avg fare                                  | €30          | €35     | €40        | High       |
 
-**Conservative scenario TAM (Ireland)**: €7.5M
-**Central scenario TAM (Ireland)**: €18M
-**Optimistic scenario TAM (Ireland)**: €35M
+**Conservative scenario TAM (Ireland)**: €7.5M **Central scenario TAM
+(Ireland)**: €18M **Optimistic scenario TAM (Ireland)**: €35M
 
 The wide range reflects genuine data scarcity for Irish-specific large-breed and
 trip frequency statistics. Investors should treat the central estimate as an
@@ -525,8 +534,8 @@ thesis.
 
 ## Section 11: SOM Consistency Check (Investor Flag)
 
-**Financial model break-even target** (from `context/current-data.md`):
-25+ trips/week at €35 avg = **€45,500/year**
+**Financial model break-even target** (from `context/current-data.md`): 25+
+trips/week at €35 avg = **€45,500/year**
 
 **SOM Year 1 (this analysis)**: 15–20 trips/week = **€27,300–€36,400**
 
@@ -538,12 +547,12 @@ The financial model's break-even at 25+ trips/week falls within the Year 2 range
 of this analysis. The strategy is internally consistent: the €100K raise funds
 operations to break-even, which occurs in Year 2 at the projected ramp rate.
 
-**SOM as % of SAM (Year 3)**: ~€70K / €5.25M = **1.3%** — well under 30%.
-No flag raised. This is a credible, conservative SOM.
+**SOM as % of SAM (Year 3)**: ~€70K / €5.25M = **1.3%** — well under 30%. No
+flag raised. This is a credible, conservative SOM.
 
 ---
 
-*Research conducted March 2026. All market size figures are estimates based on
+_Research conducted March 2026. All market size figures are estimates based on
 triangulated public sources. Where Ireland-specific data was unavailable, UK
 comparables and European averages were applied with appropriate adjustments.
-Primary bottom-up methodology; top-down used as directional cross-check only.*
+Primary bottom-up methodology; top-down used as directional cross-check only._

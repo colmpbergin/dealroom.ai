@@ -15,14 +15,14 @@ engineering component at launch.
 
 ## Near-Term Operational Tools (Post-Funding, Not Custom-Built)
 
-| Tool | Purpose | Estimated Cost |
-| --- | --- | --- |
-| Simple website (Squarespace / Webflow) | Online presence + contact form | Free–€30/mo |
-| Calendly + Stripe | Online booking + payments | ~€20–€50/mo |
-| Google Maps / Waze | Trip routing | Free |
-| WhatsApp Business | Customer communication | Free |
-| FreeAgent / Xero | Invoicing, VAT, accounting | ~€15–€25/mo |
-| Instagram / TikTok | Content marketing | Free |
+| Tool                                   | Purpose                        | Estimated Cost |
+| -------------------------------------- | ------------------------------ | -------------- |
+| Simple website (Squarespace / Webflow) | Online presence + contact form | Free–€30/mo    |
+| Calendly + Stripe                      | Online booking + payments      | ~€20–€50/mo    |
+| Google Maps / Waze                     | Trip routing                   | Free           |
+| WhatsApp Business                      | Customer communication         | Free           |
+| FreeAgent / Xero                       | Invoicing, VAT, accounting     | ~€15–€25/mo    |
+| Instagram / TikTok                     | Content marketing              | Free           |
 
 ## No Proprietary Technology
 

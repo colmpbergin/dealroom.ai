@@ -11,8 +11,8 @@
 ## What This Capital Is For
 
 1. **Vehicle**: Purchase / lease a purpose-built van or large SUV (~€30–40K)
-2. **Insurance & licensing**: Commercial vehicle + animal transport permits
-   for Ireland (~€5–8K)
+2. **Insurance & licensing**: Commercial vehicle + animal transport permits for
+   Ireland (~€5–8K)
 3. **Marketing & customer acquisition**: Build first customer base in Dublin
    (~€15–20K over 12 months)
 4. **Founder salary / operations**: 12–18 months personal runway (~€35–45K)
@@ -22,8 +22,8 @@
 - **18-month goal**: Break-even on operational costs — monthly revenue covers
   vehicle, insurance, fuel, and founder salary without further external capital
 - **Next round trigger**: 50+ repeat customers, demonstrable word-of-mouth
-  growth, and break-even achieved → positions for €500K–€1M seed round to
-  expand the Dublin fleet
+  growth, and break-even achieved → positions for €500K–€1M seed round to expand
+  the Dublin fleet
 
 ## Target Investors
 
@@ -46,8 +46,8 @@
 ## Long-Term Vision
 
 BigPawRides starts as a single-operator service in Dublin, but the model is
-replicable. Every major Irish city has the same problem — Cork, Galway, Limerick,
-Belfast. Beyond Ireland, every English-speaking city with urban density and
-rising pet ownership is a potential market. The 5-year vision is a network of
-BigPawRides city operations — either company-owned or franchised — becoming the
-dominant brand in large-dog specialist transport across Europe.
+replicable. Every major Irish city has the same problem — Cork, Galway,
+Limerick, Belfast. Beyond Ireland, every English-speaking city with urban
+density and rising pet ownership is a potential market. The 5-year vision is a
+network of BigPawRides city operations — either company-owned or franchised —
+becoming the dominant brand in large-dog specialist transport across Europe.

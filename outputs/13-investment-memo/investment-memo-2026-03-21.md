@@ -1,6 +1,7 @@
 # BigPawRides — Investment Memo
 
-**Date:** 2026-03-21 | **Stage:** Pre-Seed | **Ask:** €100,000 SAFE at €1.8M post-money cap
+**Date:** 2026-03-21 | **Stage:** Pre-Seed | **Ask:** €100,000 SAFE at €1.8M
+post-money cap
 
 ## Company Purpose
 
@@ -28,8 +29,8 @@ Five converging conditions have peaked in 2024–2026:
 3. Premium pet service spending in Ireland is at a record high (Euromonitor,
    2025).
 4. Dublin's car-free household rate is rising with urban density.
-5. No competitor has moved to fill the gap despite conditions existing since
-   2022.
+5. No competitor has moved to fill the gap despite conditions existing
+   since 2022.
 
 ## The Solution
 
@@ -41,10 +42,9 @@ via WhatsApp at launch. Target market: Dublin city and inner suburbs.
 ## Market Opportunity
 
 - **TAM**: ~€18M/year (all large-dog transport in Ireland; bottom-up)
-- **SAM**: ~€5.25M/year (Dublin metro; 30,000 addressable households × 5 trips
-  × €35)
-- **SOM**: ~€70K/year by Year 3 (single operator; 1.3% of SAM — highly
-  credible)
+- **SAM**: ~€5.25M/year (Dublin metro; 30,000 addressable households × 5 trips ×
+  €35)
+- **SOM**: ~€70K/year by Year 3 (single operator; 1.3% of SAM — highly credible)
 - **Growth**: Global pet transport CAGR 9.2% (Verified Market Research, 2024);
   Irish pet care 6–9%/year (Euromonitor, 2025)
 
@@ -56,8 +56,8 @@ via WhatsApp at launch. Target market: Dublin city and inner suburbs.
   March 2026)
 - Uber Pet not available in Ireland; Bolt has no pet tier in Dublin (both
   confirmed March 2026)
-- UK model validated: PetCabs (Bristol), PetCars (London) — operating
-  profitably at comparable city scale and pricing
+- UK model validated: PetCabs (Bristol), PetCars (London) — operating profitably
+  at comparable city scale and pricing
 - Founder is the customer: Roland Tritsch, large dog owner in Dublin, directly
   experienced this problem repeatedly
 
@@ -124,14 +124,14 @@ add a second driver + van, expand to Cork or Galway, and build the booking app.
 
 ## Why We Should Invest
 
-1. **First-mover in a confirmed, unoccupied niche.** No competitor. No
-   platform. No incumbent solution. The window is open because the market is too
-   small for Uber and too specialised for generalist pet taxis. BigPawRides
-   occupies it first.
-2. **Capital-efficient model with a clear break-even path.** €100K buys the
-   van, proves the unit economics, and reaches break-even in Month 13. The
-   business never runs out of cash under the base case. This is a low-risk angel
-   cheque with a provable thesis.
+1. **First-mover in a confirmed, unoccupied niche.** No competitor. No platform.
+   No incumbent solution. The window is open because the market is too small for
+   Uber and too specialised for generalist pet taxis. BigPawRides occupies it
+   first.
+2. **Capital-efficient model with a clear break-even path.** €100K buys the van,
+   proves the unit economics, and reaches break-even in Month 13. The business
+   never runs out of cash under the base case. This is a low-risk angel cheque
+   with a provable thesis.
 3. **Founder-market fit is unusually tight.** Roland Tritsch is a serial
    entrepreneur who IS the customer — the company was born from his own repeated
    experience of the problem. He knows the pain exactly; he knows the solution

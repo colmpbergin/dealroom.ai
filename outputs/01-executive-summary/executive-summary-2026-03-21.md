@@ -16,23 +16,23 @@ routinely refuses.
 Large dog owners in Dublin have no reliable transport option. Three ride-share
 platforms dominate the city — none have a large-dog product. Uber Pet is not
 available in Ireland. Bolt has no pet tier in Dublin. Licensed taxi drivers are
-under no NTA obligation to carry non-assistance animals. Standard pet taxis focus
-on small breeds. The result: an estimated 15,000 Dublin households cancel vet
-appointments, delay grooming visits, and scramble for borrowed cars every time
-their large dog needs to move. Economic cost: €200–€600 per household per year
-in disrupted pet care.
+under no NTA obligation to carry non-assistance animals. Standard pet taxis
+focus on small breeds. The result: an estimated 15,000 Dublin households cancel
+vet appointments, delay grooming visits, and scramble for borrowed cars every
+time their large dog needs to move. Economic cost: €200–€600 per household per
+year in disrupted pet care.
 
 ---
 
 ## Why Now
 
-The COVID dog adoption wave (2020–2022) put an estimated 75,000–100,000 new
-dogs into Irish homes. Those dogs — now 3–5 years old and living in Dublin
-apartments — are at peak veterinary and grooming demand for the first time.
-Simultaneously, ride-share consolidation has made driver refusals more
-systematic, premium pet spending is at a record high (Euromonitor, 2025), and
-Dublin's car-free household rate continues to rise. The gap has existed since
-2022. No incumbent has moved to fill it.
+The COVID dog adoption wave (2020–2022) put an estimated 75,000–100,000 new dogs
+into Irish homes. Those dogs — now 3–5 years old and living in Dublin apartments
+— are at peak veterinary and grooming demand for the first time. Simultaneously,
+ride-share consolidation has made driver refusals more systematic, premium pet
+spending is at a record high (Euromonitor, 2025), and Dublin's car-free
+household rate continues to rise. The gap has existed since 2022. No incumbent
+has moved to fill it.
 
 ---
 
@@ -48,8 +48,8 @@ bookable via WhatsApp at launch.
 
 ## Market Opportunity
 
-- **TAM**: ~€18M/year — all large-dog transport in Ireland (bottom-up: 700K
-  dogs × large-breed share × addressable owners × trip occasions)
+- **TAM**: ~€18M/year — all large-dog transport in Ireland (bottom-up: 700K dogs
+  × large-breed share × addressable owners × trip occasions)
 - **SAM**: ~€5.25M/year — Dublin metro; 30,000 addressable households × 5
   trips/year × €35 average fare
 - **SOM**: ~€70K/year by Year 3 — single operator reaching 1.3% of SAM;
@@ -66,14 +66,14 @@ We are pre-revenue. Here is what is validated:
 - **Structural gap confirmed**: Zero purpose-built large-dog taxi services with
   public booking channels found across any Dublin marketplace (Gumtree.ie,
   DoneDeal.ie, Trustpilot Ireland — March 2026)
-- **Platforms confirmed absent**: Uber Pet not available in Ireland; Bolt has
-  no pet tier in Dublin (both confirmed March 2026)
-- **UK model proven**: PetCabs (Bristol) and PetCars (London) operate
-  profitably at comparable city scale and pricing — demonstrating the model
-  works where the market exists
+- **Platforms confirmed absent**: Uber Pet not available in Ireland; Bolt has no
+  pet tier in Dublin (both confirmed March 2026)
+- **UK model proven**: PetCabs (Bristol) and PetCars (London) operate profitably
+  at comparable city scale and pricing — demonstrating the model works where the
+  market exists
 - **Founder validation**: Roland Tritsch is a large dog owner in Dublin who
-  personally experienced this problem repeatedly — the company was born from
-  his own pavement moment, not a market scan
+  personally experienced this problem repeatedly — the company was born from his
+  own pavement moment, not a market scan
 
 ---
 
@@ -98,28 +98,28 @@ Second driver is the first seed-stage hire.
 
 ## Financials
 
-| Metric | Value |
-| --- | --- |
-| Raise | €100,000 SAFE |
-| Post-money cap | €1.8M |
-| Monthly OpEx | €4,100 |
-| Setup costs (vehicle + insurance) | €35,000 |
-| Break-even | Month 13 (~29 trips/week) |
-| Cash low point | €55,795 (Month 12) — never at risk |
-| Runway post-raise | 24+ months |
-| Year 2 revenue | ~€57,000 |
+| Metric                            | Value                              |
+| --------------------------------- | ---------------------------------- |
+| Raise                             | €100,000 SAFE                      |
+| Post-money cap                    | €1.8M                              |
+| Monthly OpEx                      | €4,100                             |
+| Setup costs (vehicle + insurance) | €35,000                            |
+| Break-even                        | Month 13 (~29 trips/week)          |
+| Cash low point                    | €55,795 (Month 12) — never at risk |
+| Runway post-raise                 | 24+ months                         |
+| Year 2 revenue                    | ~€57,000                           |
 
 ---
 
 ## Use of Funds (€100,000)
 
-| Category | Amount | Milestone |
-| --- | --- | --- |
-| Vehicle + conversion | €28,000 | Operational Day 1 |
-| Insurance + licensing | €5,000 | Legally compliant Day 1 |
-| Marketing + brand setup | €4,000 | Discovery channels ready |
-| Founder salary (18 months) | €45,000 | Full-time execution |
-| Working capital buffer | €18,000 | Demand ramp absorption |
+| Category                   | Amount  | Milestone                |
+| -------------------------- | ------- | ------------------------ |
+| Vehicle + conversion       | €28,000 | Operational Day 1        |
+| Insurance + licensing      | €5,000  | Legally compliant Day 1  |
+| Marketing + brand setup    | €4,000  | Discovery channels ready |
+| Founder salary (18 months) | €45,000 | Full-time execution      |
+| Working capital buffer     | €18,000 | Demand ramp absorption   |
 
 ---
 
@@ -137,13 +137,13 @@ Second driver is the first seed-stage hire.
 
 ## The Ask
 
-€100,000 on a SAFE at a €1.8M post-money cap. Target close Q1 2026. Seeking
-3–5 Dublin-based angels at €20K–€50K each — ideally with consumer, pet, or
-operator backgrounds.
+€100,000 on a SAFE at a €1.8M post-money cap. Target close Q1 2026. Seeking 3–5
+Dublin-based angels at €20K–€50K each — ideally with consumer, pet, or operator
+backgrounds.
 
 The €100K gets the van on the road, proves the unit economics, and reaches
-break-even. The next raise is a seed round of €500K–€1M at a €3M–€5M cap
-to expand the fleet and hire the first driver.
+break-even. The next raise is a seed round of €500K–€1M at a €3M–€5M cap to
+expand the fleet and hire the first driver.
 
 ---
 
