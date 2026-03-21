@@ -1,0 +1,6 @@
+# Hugo build output
+site/public/
+site/resources/
+
+# Claude Code local settings
+.claude/settings.local.json
