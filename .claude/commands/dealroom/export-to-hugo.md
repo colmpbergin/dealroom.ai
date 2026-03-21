@@ -99,7 +99,38 @@ Section title map:
 Note: That `00-narrative` and `99-reviews` will not be copied/published to hugo.
 That is on purpose!
 
-### Phase 5: Verify Hugo Config
+### Phase 5: Update Homepage Index
+
+After creating the snapshot directory, scan all existing snapshot directories
+in `site/content/` to build an up-to-date index:
+
+```bash
+ls -d site/content/*/
+```
+
+Create or overwrite `site/content/_index.md` with a table of **all** snapshots
+(not just the current one), sorted newest first:
+
+```markdown
+---
+title: "Deal Room Snapshots"
+date: <current ISO 8601 date>
+---
+
+| Snapshot | Sections included |
+| -------- | ----------------- |
+| [YYYY-MM-DD_HH-MM-SS](YYYY-MM-DD_HH-MM-SS/) | Section 01, 02, … |
+| [YYYY-MM-DD_HH-MM-SS](YYYY-MM-DD_HH-MM-SS/) | Section 01, 02, … |
+```
+
+For each snapshot directory, inspect its `_index.md` to determine which
+sections are included (status ✅). List them as a comma-separated summary
+(e.g. "01, 02, 03, 08, 10") or "—" if the index can't be read.
+
+This file is the source for the Hugo homepage and must be re-generated (not
+appended to) on every export so it always reflects the full current state.
+
+### Phase 6: Verify Hugo Config
 
 Check that `site/hugo.toml` exists. If `baseURL` still says `username`, remind
 the user to update it:
@@ -108,7 +139,7 @@ the user to update it:
 baseURL = "https://<your-github-username>.github.io/dealroom.ai/"
 ```
 
-### Phase 6: Report and Instruct
+### Phase 7: Report and Instruct
 
 Tell the user:
 
@@ -118,7 +149,7 @@ Tell the user:
 3. The exact commands to publish:
 
 ```bash
-git add site/
+git add site/content/
 git commit -m "Add data room snapshot <timestamp>"
 git push
 ```
