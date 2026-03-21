@@ -1,0 +1,80 @@
+---
+title: "Team"
+date: 2026-03-21T11:08:59+00:00
+weight: 10
+---
+
+# Section 10 — Team
+
+**BigPawRides** | Pre-Seed | March 2026
+
+---
+
+## The Company Was Born the Third Time an Uber Cancelled
+
+Roland Tritsch stood on a Dublin pavement, a 40kg dog at his feet, watching his
+third driver cancel in twenty minutes. He missed the vet appointment. Paid a
+rebooking fee. And asked himself a question no amount of market research can
+replicate: how does every other large dog owner in this city actually solve
+this?
+
+That moment is not just the origin story. It is the product brief.
+
+Roland is a serial entrepreneur who has founded and operated multiple companies
+across his career — navigating company formation, fundraising, early operations,
+and customer development from scratch. He knows what a broken market looks like.
+He knows how to build a lean service business from zero. And in this case, he is
+not building a solution for a customer he has studied — he is building a
+solution for himself. He books the trips. He knows the vet clinics, the
+groomers, the kennel logistics. He has run the search himself and found nothing.
+That is founder-market fit at its sharpest.
+
+For the first 12 months, Roland drives every trip. This is not a constraint — it
+is the strategy. Quality control in a service business is impossible to delegate
+before you have built the standard. The founder-driver model means every
+customer gets the same experience, every dog gets the same care, and the brand
+promise holds. Driver number two is a seed-stage hire, once the model is proven
+and the referral network is in place.
+
+---
+
+## Founder
+
+|                        |                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------- |
+| **Name**               | Roland Tritsch                                                                  |
+| **Role**               | Founder and Operator                                                            |
+| **Location**           | Dublin, Ireland                                                                 |
+| **Background**         | Serial entrepreneur; multiple companies founded and operated                    |
+| **Founder-market fit** | Large dog owner in Dublin; personally experienced the transport gap, repeatedly |
+
+---
+
+## What We Are Looking For
+
+No formal advisors are in place yet. The fundraising process will bring in one
+or two Dublin-based angels with consumer or pet-sector backgrounds who add more
+than capital — introductions to vet clinic networks, groomer partnerships, and
+operational experience scaling a service business in Ireland.
+
+**First hire (seed stage):** Driver number two — vetted, dog-experienced,
+customer-facing. Hired once the unit economics are proven and the fleet expands
+to a second vehicle.
+
+---
+
+## Why This Founder Wins This Problem
+
+Pre-seed investors back founders before they back businesses. The question is
+not whether the market is large enough — it is whether this person is the right
+one to open it. Three things make Roland the answer:
+
+1. **He lived the problem.** Not once. Repeatedly. The pavement moment is a
+   precise and personal product brief that no hired researcher can replicate.
+2. **He has built before.** Serial entrepreneur pattern recognition cuts
+   execution risk significantly against a first-time operator. He knows how to
+   move fast, stay lean, and focus on what matters at pre-seed.
+3. **He is the service.** At this stage, the brand is the founder. Customers
+   trust a person, not an app. Roland driving every trip is not a temporary
+   limitation — it is the product differentiator that makes BigPawRides reliable
+   where every alternative has failed.
