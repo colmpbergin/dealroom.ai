@@ -1,0 +1,73 @@
+{
+  // Enable all rules by default
+  "default": true,
+
+  // MD001: Heading levels should increment by one
+  // Disabled for chat histories that may have irregular structure
+  "MD001": false,
+
+  // MD013: Line length
+  "MD013": {
+    "line_length": 80,
+    "code_blocks": false,
+    "tables": false,
+    "headings": false
+  },
+
+  // MD025: Multiple top-level headings
+  // Disabled for prompt files and chat histories
+  "MD025": false,
+
+  // MD029: Ordered list item prefix
+  // Allow flexible list numbering
+  "MD029": false,
+
+  // MD033: Inline HTML
+  // Allow inline HTML elements (can restrict to specific elements if needed)
+  "MD033": false,
+
+  // MD034: Bare URL used
+  // Enforce that URLs must use markdown link syntax
+  "MD034": true,
+
+  // MD036: Emphasis used instead of a heading
+  // Disabled as some files use bold text legitimately
+  "MD036": false,
+
+  // MD040: Fenced code language
+  // Disabled as prompt/documentation files may intentionally use bare code blocks
+  "MD040": false,
+
+  // MD041: First line in file should be a top level heading
+  // Disabled as some files may have front matter or other content first
+  "MD041": false,
+
+  // MD042: No empty links
+  // Ensure all links have content
+  "MD042": true,
+
+  // MD052: Reference links and images should use a label that is defined
+  // Disabled as it's too strict for many existing files
+  "MD052": false,
+
+  // MD053: Link and image reference definitions should be needed
+  // Ensures no unused reference definitions exist
+  "MD053": {
+    "ignored_definitions": []
+  },
+
+  // MD054: Link and image style
+  // Require reference-style links; disallow inline links
+  "MD054": {
+    "autolink": true,
+    "collapsed": true,
+    "full": true,
+    "inline": false,
+    "shortcut": true,
+    "url_inline": false
+  },
+
+  // MD060: Table column style
+  // Disabled as auto-fixing tables can be complex
+  "MD060": false
+}
