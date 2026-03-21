@@ -1,101 +1,48 @@
 # Engineering Context
 
-> Describes how you build your product. Claude uses this to write Section 05 —
-> Engineering. This section signals production-readiness, scalability, and
-> technical credibility to investors. Fill this in before running
-> /dealroom:build-section 05.
+## Overview
 
----
+BigPawRides is a service business, not a software product. There is no
+engineering component at launch.
 
-## Architecture Overview
+## Current Tech Stack
 
-[Describe the overall architecture pattern: microservices, monolith, serverless,
-etc.]
+**None.** Operations are run manually:
 
-[What cloud infrastructure do you use? AWS, GCP, Azure, other?]
+- Bookings: phone / WhatsApp
+- Scheduling: founder manages manually
+- Payments: cash or bank transfer (to be formalised with Stripe or similar)
 
-[What are the key design decisions, and why were they made? Frame each as a
-strategic choice.]
+## Near-Term Operational Tools (Post-Funding, Not Custom-Built)
 
-## Technology Stack
+| Tool | Purpose | Estimated Cost |
+| --- | --- | --- |
+| Simple website (Squarespace / Webflow) | Online presence + contact form | Free–€30/mo |
+| Calendly + Stripe | Online booking + payments | ~€20–€50/mo |
+| Google Maps / Waze | Trip routing | Free |
+| WhatsApp Business | Customer communication | Free |
+| FreeAgent / Xero | Invoicing, VAT, accounting | ~€15–€25/mo |
+| Instagram / TikTok | Content marketing | Free |
 
-### Backend
+## No Proprietary Technology
 
-[Language(s), frameworks, key libraries]
+The competitive moat is **not technology** — it is brand trust, driver quality,
+vehicle specialisation, and first-mover referral relationships with Dublin vets
+and groomers. Custom software is not needed to validate this model.
 
-### Frontend
+## Future Tech (Seed Stage +)
 
-[Language(s), frameworks, UI libraries]
+Once the model is proven and a fleet is being built:
 
-### AI / ML
+- Dedicated iOS + Android booking app
+- Driver dispatch and real-time routing
+- Live tracking for customers (know where their dog is)
+- Subscription / loyalty programme management
+- Fleet management and driver scheduling
 
-[Models, APIs, infrastructure — e.g., OpenAI, AWS Bedrock, self-hosted]
+## Section 05 Note for Investors
 
-### Data & Storage
-
-[Databases, message queues, caches, object storage]
-
-### DevOps & Infrastructure
-
-[CI/CD, containerization, orchestration, monitoring]
-
-## Key Third-Party Dependencies
-
-[Notable APIs or services investors may ask about — include why you chose them]
-
-## Development Processes
-
-### CI/CD Pipeline
-
-[What runs on every pull request? What gates a deployment?]
-
-### Testing
-
-[Unit, integration, end-to-end — what coverage exists?]
-
-### Code Review
-
-[Review process, branching strategy]
-
-### Deployment
-
-[How often do you deploy? What does a deployment look like?]
-
-## Operational Practices
-
-### Monitoring & Observability
-
-[How do you know when something breaks? Alerting, logging, dashboards?]
-
-### Incident Response
-
-[On-call process, SLAs, incident playbooks?]
-
-### Security Posture
-
-[Auth, encryption, secrets management, compliance (SOC 2, GDPR, etc.)?]
-
-## Scalability & Performance
-
-[What are the current performance characteristics? What would break at 10x
-load?]
-
-[What architectural decisions were made with scale in mind?]
-
-## IP & Defensibility
-
-[Any proprietary algorithms, models, datasets, or infrastructure that creates
-competitive advantage?]
-
-[What would be hard for a competitor to replicate?]
-
-## Current Team & Hiring
-
-[How many engineers? What are their areas of expertise?]
-
-[Key engineering hires planned with this raise?]
-
----
-
-_Be specific and honest. Investors (especially technical ones) will check claims
-in diligence._
+This section intentionally does not contain a tech stack because BigPawRides is
+a service business. The absence of technology at this stage is a **cost
+advantage** — low overhead, no engineering burn, fast to launch. Technology
+follows proven demand; it does not precede it.
