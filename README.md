@@ -127,7 +127,9 @@ Previous snapshots are never overwritten — you maintain a full history.
 
 1. Update `site/hugo.toml` — replace `username` with your GitHub username
 2. Enable Pages: Settings → Pages → Source: "GitHub Actions"
-3. Push — the workflow builds and deploys automatically
+3. Allow your working branch to deploy: Settings → Environments →
+   `github-pages` → add your branch (e.g. `build`) to the allowed branches
+4. Push — the workflow builds and deploys automatically
 
 Preview locally: `cd site && hugo server`
 
