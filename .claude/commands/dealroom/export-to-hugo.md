@@ -47,6 +47,7 @@ of what's in this snapshot:
 ---
 title: "Snapshot <timestamp>"
 date: <ISO 8601 date>
+bookCollapseSection: true
 ---
 
 # Data Room Snapshot — <timestamp>

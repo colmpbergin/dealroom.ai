@@ -1,6 +1,7 @@
 baseURL = "https://username.github.io/dealroom.ai/"
 languageCode = "en-us"
 title = "Deal Room"
+theme = "hugo-book"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -9,3 +10,10 @@ title = "Deal Room"
   endLevel = 3
   ordered = false
   startLevel = 2
+
+[params]
+  BookTheme = "light"
+  BookToC = true
+  BookSearch = true
+  BookSection = "*"
+  BookRepo = "https://github.com/team-ailtir/dealroom.ai"
