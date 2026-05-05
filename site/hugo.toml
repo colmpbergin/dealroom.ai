@@ -1,4 +1,4 @@
-baseURL = "https://team-ailtir.github.io/dealroom.ai/"
+baseURL = "https://colmpbergin.github.io/dealroom.ai/"
 languageCode = "en-us"
 title = "Deal Room"
 theme = "hugo-book"
@@ -16,4 +16,4 @@ theme = "hugo-book"
   BookToC = true
   BookSearch = true
   BookSection = "*"
-  BookRepo = "https://github.com/team-ailtir/dealroom.ai"
+  BookRepo = "https://github.com/colmpbergin/dealroom.ai"
