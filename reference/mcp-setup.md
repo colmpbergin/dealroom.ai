@@ -144,7 +144,7 @@ libraries for brand-specific visuals.
 **Setup command:**
 
 ```bash
-claude mcp add recraft --env RECRAFT_API_KEY="your_key_here" -- npx @recraft-ai/mcp
+claude mcp add recraft --env RECRAFT_API_KEY="your_key_here" -- npx -y @recraft-ai/mcp-recraft-server@latest
 ```
 
 **Test:** Ask Claude to generate a line icon matching your brand colors.
