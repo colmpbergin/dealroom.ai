@@ -120,7 +120,7 @@ Outputs SVG, PNG, or PPTX. Free forever plan available.
 **Setup command:**
 
 ```bash
-claude mcp add napkin --env NAPKIN_API_KEY="your_key_here" -- npx louischancly/napkin-ai-mcp
+claude mcp add napkin --env NAPKIN_API_KEY="your_key_here" -- npx npx -y napkin-ai-mcp
 ```
 
 **Test:** Ask Claude to create a flowchart showing your customer acquisition
